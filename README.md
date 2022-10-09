@@ -3,3 +3,5 @@
 ## Analysis Overview
 This analysis aims to conclude whether the Citibike business can succeed in DesMoines. The research, retrieved from the Citi Bike System Data page for August in New York City, breaks down the data by hours, weeks, and gender.
 
+# Results
+
